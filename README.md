@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ardalanhayatifar
 - 👀 I’m interested in (Geo)Chemistry
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on software development
+- 🌱 I’m currently learning OOP using Python!
 - 📫 How to reach me: ardalanhayatifar [at] gmail.com
 
 <!---
